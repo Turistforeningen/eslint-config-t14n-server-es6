@@ -1,0 +1,17 @@
+{
+  "name": "eslint-config-t14n-server-flow",
+  "version": "0.0.2",
+  "description": "Turistforeningen eslint config for server using Flow",
+  "main": "index.js",
+  "repository": "https://github.com/Turistforeningen/eslint-config-t14n-server-flow",
+  "author": "@Turistforeningen",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "*",
+    "eslint-plugin-flowtype": "*"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  }
+}
