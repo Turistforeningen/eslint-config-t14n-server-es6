@@ -1,9 +1,9 @@
 {
-  "name": "eslint-config-t14n-server-flow",
-  "version": "0.0.3",
+  "name": "eslint-config-t14n-server-es6",
+  "version": "0.0.4",
   "description": "Turistforeningen eslint config for server using Flow",
   "main": "index.js",
-  "repository": "https://github.com/Turistforeningen/eslint-config-t14n-server-flow",
+  "repository": "https://github.com/Turistforeningen/eslint-config-t14n-server-es6",
   "author": "@Turistforeningen",
   "license": "MIT",
   "dependencies": {
